@@ -81,6 +81,11 @@ body {
   margin: 0;
 }
 
+.project-list li:last-child {
+  padding-top: 5px;
+  list-style-type: none;
+}
+
 .project-item-descr {
   font-style: normal;
   font-weight: 400;
